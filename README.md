@@ -34,7 +34,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/ZiDuNet/ZiDuNet/assets/images/jobs.png" />
+<!-- <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/ZiDuNet/ZiDuNet/assets/images/jobs.png" /> -->
 
 <p>&emsp;&emsp;嗨，你好，我是<strong>武硕</strong>。热爱技术研究、AI 编程。</p>
 <p>&emsp;&emsp;热爱计算机科学与 IT 互联网事业，希望成为一名优秀的开发者。</p>
@@ -51,7 +51,7 @@
 
 <tr><td>
 
-### 📊 WakaTime
+<!-- ### 📊 WakaTime -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -61,27 +61,17 @@
 </table>
 
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/ZiDuNet/ZiDuNet/assets/images/hr.gif" />
-
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/ZiDuNet/ZiDuNet/assets/images/man_run.png" width="250" height="250" />
 
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
-    <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-  </picture>
-</div>
 
-<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/ZiDuNet/ZiDuNet/assets/images/left.png" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ZiDuNet&theme=dark&hide_border=true" />
+
+<!-- <picture>
+ 
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ZiDuNet&theme=light&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZiDuNet&theme=dark&hide_border=true" />
-</picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/ZiDuNet/ZiDuNet/assets/images/right.png" />
+</picture> -->
+<!-- 
 
 <img src="https://cdn.jsdelivr.net/gh/ZiDuNet/ZiDuNet/github-metrics/base.svg" />
 
@@ -94,71 +84,19 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZiDuNet&theme=xcode&bg_color=FF000000&hide_border=true" />
       </picture>
   </tr>
-</table>
+</table> 
 
-</div>
-
+</div>-->
+<!-- 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/ZiDuNet/ZiDuNet/assets/images/hr.gif" />
 
 <div align="center" >
 
-<img src="https://cdn.jsdelivr.net/gh/ZiDuNet/ZiDuNet/assets/images/mb.png" width="250" height="250" />
 
-<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
 
-</div>
+</div> -->
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/ZiDuNet/ZiDuNet/assets/images/hr.gif" />
 
-<div align="center" >
-
-<img src="https://cdn.jsdelivr.net/gh/ZiDuNet/ZiDuNet/assets/images/man.png" width="250" height="250" />
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a>
-<a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a>
-<a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
-<a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.oracle.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>
-<a href="https://pytorch.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a>
-<a href="https://spring.io" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a>
-<a href="https://vuejs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a>
-</p>
-
-</div>
-
-<img width="200%" src="https://cdn.jsdelivr.net/gh/ZiDuNet/ZiDuNet/assets/images/hr.gif" />
-
-<div align="center">
-
-<img width="36%" src="https://cdn.jsdelivr.net/gh/ZiDuNet/ZiDuNet/assets/images/githubgif.gif" />
-
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/ZiDuNet/ZiDuNet/github-metrics/people.followers.svg" alt="people.followers" /></td>
-  </tr>
-</table>
 
 <table>
   <tr>
